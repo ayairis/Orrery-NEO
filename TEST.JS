@@ -1,1 +1,3 @@
-alert
+import { Alert } from "bootstrap";
+
+Alert
